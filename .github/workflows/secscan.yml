@@ -39,7 +39,7 @@ jobs:
             --slurpfile  quiz quizapp-alerts.json \
             --slurpfile  web webgoat-alerts.json \
             --slurpfile  baz Bazar_Mobileapp-alerts.json \
-            --slurpfile  devsec DevsecopsGHAS-alerts.json \
+            --slurpfile  devsec DevsecGHAS-alerts.json \
           '{
               Report_generated: $timestamp,
               version: $version,
