@@ -1,6 +1,6 @@
 {
-  "Report_generated": "12-03-2026 12:43:55 PM",
-  "version": "v1.5",
+  "Report_generated": "12-03-2026 01:02:55 PM",
+  "version": "v1.6",
   "apps": [
     {
       "appname": "GHAS_demo",
@@ -36852,8 +36852,8 @@
     {
       "appname": "Bazar_Mobileapp",
       "alerts": {
-        "published_at": "11-03-2026 10:44:46 PM",
-        "version": "v1.2",
+        "published_at": "12-03-2026 01:00:44 PM",
+        "version": "v1.3",
         "repo": "Sec-champion/Bazar_Mobileapp",
         "code_scanning": [
           {
@@ -36896,7 +36896,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:codeql",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "Implicit cast of source type double to narrower destination type int."
               },
@@ -36953,7 +36953,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:codeql",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "Implicit cast of source type double to narrower destination type int."
               },
@@ -37010,7 +37010,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:codeql",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "Implicit cast of source type double to narrower destination type int."
               },
@@ -37063,7 +37063,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:codeql",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The 'android:debuggable' attribute is enabled."
               },
@@ -37117,7 +37117,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:codeql",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "This query depends on a user-provided value."
               },
@@ -37171,7 +37171,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:codeql",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "This query depends on a user-provided value."
               },
@@ -37226,7 +37226,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37281,7 +37281,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37336,7 +37336,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37391,7 +37391,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37446,7 +37446,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37501,7 +37501,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37556,7 +37556,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37611,7 +37611,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:semgrep",
               "state": "open",
-              "commit_sha": "6e6b8cb7f58a76c838322398da203c08191c2881",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The application exports an activity. Any application on the device can launch the exported activity which may compromise the integrity of your application or its data.  Ensure that any exported activities do not have privileged access to your application's control plane."
               },
@@ -37661,7 +37661,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "This app does not enforce TLS Certificate Transparency that helps to detect SSL certificates that have been mistakenly issued by a certificate authority or maliciously acquired from an otherwise unimpeachable certificate authority."
               },
@@ -37711,7 +37711,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "This app does not have capabilities to prevent against Screenshots from Recent Task History/ Now On Tap etc."
               },
@@ -37761,7 +37761,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "This app does not have capabilities to prevent tapjacking attacks. An attacker can hijack the user's taps and tricks him into performing some critical operations that he did not intend to."
               },
@@ -37811,7 +37811,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "This app does not uses SafetyNet Attestation API that provides cryptographically-signed attestation, assessing the device's integrity. This check helps to ensure that the servers are interacting with the genuine app running on a genuine Android device. "
               },
@@ -37861,7 +37861,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "This app does not use a TLS/SSL certificate or public key pinning in code to detect or prevent MITM attacks in secure communication channel. Please verify if pinning is enabled in `network_security_config.xml`."
               },
@@ -37911,7 +37911,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "App uses SQLite Database and execute raw SQL query. Untrusted user input in raw SQL queries can cause SQL Injection. Also sensitive information should be encrypted and written to the database."
               },
@@ -37961,7 +37961,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "Hidden elements in view can be used to hide data from user. But this data can be leaked."
               },
@@ -38011,7 +38011,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "A hardcoded Key is identified."
               },
@@ -38061,7 +38061,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "A hardcoded username in plain text is identified."
               },
@@ -38111,7 +38111,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "A hardcoded password in plain text is identified."
               },
@@ -38161,7 +38161,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "The App logs information. Please ensure that sensitive information is never logged."
               },
@@ -38211,7 +38211,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "Ensure that javascript interface is implemented securely. Execution of user controlled code in WebView is a  critical Security issue."
               },
@@ -38261,7 +38261,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "Remote WebView debugging is enabled. This allows an attacker with debugging access to interact with the webview and steal or corrupt data."
               },
@@ -38311,7 +38311,7 @@
               "environment": "{}",
               "category": ".github/workflows/sec.yml:mobsf",
               "state": "open",
-              "commit_sha": "d49f75febe9b36d96b71bfe92a262c10532f409e",
+              "commit_sha": "98abda45f215392ba30e3093ce6914456ebc7ff3",
               "message": {
                 "text": "WebView File System Access is enabled. An attacker able to inject script into a WebView, could exploit the opportunity to access local resources."
               },
@@ -38371,11 +38371,7 @@
             "assigned_to": null
           }
         ],
-        "dependabot": {
-          "message": "Dependabot alerts are disabled for this repository.",
-          "documentation_url": "https://docs.github.com/rest/dependabot/alerts#list-dependabot-alerts-for-a-repository",
-          "status": "403"
-        }
+        "dependabot": []
       }
     },
     {
