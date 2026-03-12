@@ -20,7 +20,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          repos=("GHAS-demo" "quizapp" "webgoat" "Bazar_Mobileapp" "DevsecopsGHAS")
+          repos=("GHAS-demo" "quizapp" "webgoat" "Bazar_Mobileapp" "DevsecGHAS")
           for repo in "${repos[@]}"; do
             echo "Fetching $repo..."
             gh repo clone Sec-champion/$repo tmp-$repo
@@ -48,7 +48,7 @@ jobs:
                 {appname: "quizapp", alerts: $quiz[0]},
                 {appname: "webgoat", alerts: $web[0]},
                 {appname: "Bazar_Mobileapp", alerts: $baz[0]},
-                {appname: "DevsecopsGHAS", alerts: $devsec[0]}
+                {appname: "DevsecGHAS", alerts: $devsec[0]}
               ]
             }' > all-repos-alerts.json
 
