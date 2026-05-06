@@ -23,7 +23,7 @@ jobs:
           repos=("GHAS-demo" "quizapp" "webgoat" "Bazar_Mobileapp" "DevsecGHAS")
           for repo in "${repos[@]}"; do
             echo "Fetching $repo..."
-            gh repo clone Sec-champion/$repo tmp-$repo
+            gh repo clone Sec-championss/$repo tmp-$repo
             cp tmp-$repo/${repo}-alerts.json . || echo "{}" > ${repo}-alerts.json
             rm -rf tmp-$repo
           done
